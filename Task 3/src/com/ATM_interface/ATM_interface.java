@@ -47,17 +47,6 @@ class BankAccount {
 
 	}
 	
-	void getPreviousTransaction() {
-		if(previousTransaction > 0) {
-			System.out.println("Deposited: "+ previousTransaction);
-		}
-		else if(previousTransaction < 0) {
-			System.out.println("Withdrawn: "+ Math.abs(previousTransaction));
-		}
-		else {
-			System.out.println("No transaction occured");
-		}
-	}
 	
 	void showMenu(){
 		char option= '\0';
@@ -69,8 +58,7 @@ class BankAccount {
 		System.out.println("A, Check Balance");
 		System.out.println("B, Deposit");
 		System.out.println("C, Withdraw");
-		System.out.println("D, Previous Transaction");
-		System.out.println("E, Exit");
+	        System.out.println("D, Exit");
 		
 		do {
 			System.out.println("=========================================");
@@ -111,15 +99,9 @@ class BankAccount {
 				System.out.println("\n");
 				break;
 			
+			
+				
 			case 'D' :
-				
-				System.out.println("===========================");
-				getPreviousTransaction();
-				System.out.println("===========================");
-				System.out.println("\n");
-				break;
-				
-			case 'E' :
 				
 				System.out.println("***************************");
 				break;
@@ -128,7 +110,7 @@ class BankAccount {
 					System.out.println("invalid option!! Please enter again");
 					break;
 			}
-		}while(option != 'E');
+		}while(option != 'D');
 		
 		System.out.println("Thank you for your services");
 	}
