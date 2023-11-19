@@ -24,6 +24,9 @@ The tasks completed during internships are as follows :
 
  8. Game Over: The game ends when you decide not to play another round. The program will display your final score, and you can close the program.
 
+ ![Screenshot (24)](https://github.com/yogeshtarone/CODSOFT/assets/46342990/8b65a619-19fe-4552-a7df-a1be064b24cb)
+
+
 ************************************ TASK 2 - STUDENT GRADE CALCULATOR *************************************
 
 1. Run the program: Start the program by running it.
@@ -37,6 +40,10 @@ The tasks completed during internships are as follows :
 5. Done!: That's it here! Here done, You now know your total marks, average percentage, and your grade.
 
  It's a quick tool to figure out your grades based on the marks you've received in your subjects.
+
+![Screenshot (26)](https://github.com/yogeshtarone/CODSOFT/assets/46342990/ff75afb5-458f-46a9-8f94-27fb8f4a0159)
+
+ 
 
  ********************************** TASK 3- ATM INTERFACE ******************************************
 
@@ -61,3 +68,4 @@ The tasks completed during internships are as follows :
 7. Display appropriate messages to the user based on their chosen options and the success or failure
    of their transactions.
  
+![Screenshot (28)](https://github.com/yogeshtarone/CODSOFT/assets/46342990/10350c69-dd99-4ef2-8810-ab3795746973)
