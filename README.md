@@ -38,7 +38,7 @@ The tasks completed during internships are as follows :
 
  It's a quick tool to figure out your grades based on the marks you've received in your subjects.
 
- ********************** TASK 3- ATM INTERFACE ***************************
+ **************************** TASK 3- ATM INTERFACE *************************************
 
  This code represents a simplified ATM system where we can check your balance,  deposit money,  and withdraw money.  It's a program that should help you understand the basic structure of 
   such a particular ATM SYSTEM.
